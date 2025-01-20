@@ -1,3 +1,7 @@
 jupyter-book
 matplotlib
 numpy
+sphinx<5.1
+sphinx-jupyterbook-latex==0.5.2
+jupyter-cache==0.6.1
+nbclient<0.8
