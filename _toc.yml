@@ -6,9 +6,11 @@ root: intro
 chapters:
 - file: 2-Fundamentos-Teoricos/Fundamentos-Teoricos-intro.md
   sections:
-  - file: 2-Fundamentos-Teoricos/2-1-Teoria-Clasica/teoria-clasica-intro.md
+  - file: 2-Fundamentos-Teoricos/21-Teoria-Clasica/teoria-clasica-intro.md
     sections:
-    - file: 2-Fundamentos-Teoricos/2-1-Teoria-Clasica/2-1-2-equilibrio-nash/equilibrio-nash.md
+    - file: 2-Fundamentos-Teoricos/21-Teoria-Clasica/211-definiciones/definiciones.md
+    - file: 2-Fundamentos-Teoricos/21-Teoria-Clasica/212-equilibrio-nash/equilibrio-nash.md
+  - file: 2-Fundamentos-Teoricos/22-Teoria-Evolutiva/teoria-evolutiva-intro.md
 - file: chapter-2/chapter2-intro
   sections:
   - file: chapter-2/chapter2-A
