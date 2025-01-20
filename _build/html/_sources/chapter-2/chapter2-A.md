@@ -1,0 +1,3 @@
+# Estrategias Mixtas
+
+alguna zaraza

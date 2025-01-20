@@ -1,0 +1,28 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: 2-Fundamentos-Teoricos/Fundamentos-Teoricos-intro.md
+  sections:
+  - file: 2-Fundamentos-Teoricos/2-1-Teoria-Clasica/teoria-clasica-intro.md
+    sections:
+    - file: 2-Fundamentos-Teoricos/2-1-Teoria-Clasica/2-1-2-equilibrio-nash/equilibrio-nash.md
+- file: chapter-2/chapter2-intro
+  sections:
+  - file: chapter-2/chapter2-A
+- file: chapter-3/chapter3-intro
+  sections:
+  - file: chapter-3/chapter3-A
+  - file: chapter-3/chapter3-B
+
+
+#chapter-1/segundo_nivel/el-segundo-nivel
+#chapter-1/segundo_nivel/tercer_nivel/el-tercer-nivel
+
+#chapters:
+#- file: markdown
+#- file: notebooks
+#- file: markdown-notebooks
+#- file: mymarkdownfile
