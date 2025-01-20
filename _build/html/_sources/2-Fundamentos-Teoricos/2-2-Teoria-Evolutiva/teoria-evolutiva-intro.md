@@ -1,6 +1,0 @@
-# Fundamentos Teoricos
-
-asdas
-
-asdasda
-
