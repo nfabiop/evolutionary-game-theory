@@ -1,6 +1,10 @@
 # 2.1.1 Conceptos basicos y definiciones
 
 
+Cuando pensamos en juegos nos pueden venir a la mente por ejemplo: Ajedrez, Poker, Futbol, etc. y puede parecer un poco confuso e intrigante que exista una rama de las matematicas
+que se llame **Teoria de juegos**
+
+
 ````{prf:definition} Juego
 :label: def1-juego
 
